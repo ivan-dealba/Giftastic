@@ -1,3 +1,5 @@
+let topics = ['Lionel Messi', 'Zlatan Ibrahimovic', 'Luis Suarez', 'Cristiano Ronaldo', 'Didier Drogba'];
+
 $('#add-player').on('click', function(event){
     event.preventDefault();
 
